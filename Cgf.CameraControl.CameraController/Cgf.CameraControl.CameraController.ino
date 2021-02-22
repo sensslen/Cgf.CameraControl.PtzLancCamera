@@ -1,4 +1,4 @@
-#include <LibLanc.h>
+#include "LibLanc.h"
 #include <TimerOne.h>
 
 Lanc lanc(13, 12);
